@@ -21,7 +21,7 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[charliebuild](https://github.com/welkincz/charliebuild) — Give each entry a glyph that diagrams what it is *(Sep 8)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Simplify the Orbit glyph to one ring and one satellite *(Sep 8)*  
 [Orbit](https://github.com/welkincz/Orbit) — Build from a clean clone, and make static export opt-in *(Sep 8)*  
 [ns-trip](https://github.com/welkincz/ns-trip) — 部署到 Cloudflare Workers，绑定 trip.charliebuild.com *(Sep 8)*  
 <!-- recent ends -->
