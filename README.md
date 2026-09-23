@@ -21,7 +21,7 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[charliebuild](https://github.com/welkincz/charliebuild) — Redesign landing page with interactive letter art *(Sep 15)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Remove NaNail booking figures *(Sep 22)*  
 [ns-trip](https://github.com/welkincz/ns-trip) — 加天气板块：五天预报卡片 + 雨天/低温/飓风三个说明块 *(Sep 8)*  
 [Orbit](https://github.com/welkincz/Orbit) — Correct the deploy note in wrangler.jsonc *(Sep 8)*  
 <!-- recent ends -->
