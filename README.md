@@ -21,7 +21,7 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[charliebuild](https://github.com/welkincz/charliebuild) — Merge pull request #1 from welkincz/polish/landing-selected-work *(Sep 27)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Speed NaNail carousel hold to 4 seconds *(Sep 28)*  
 [ns-trip](https://github.com/welkincz/ns-trip) — 加天气板块：五天预报卡片 + 雨天/低温/飓风三个说明块 *(Sep 8)*  
 [Orbit](https://github.com/welkincz/Orbit) — Correct the deploy note in wrangler.jsonc *(Sep 8)*  
 <!-- recent ends -->
