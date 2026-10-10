@@ -21,7 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[charliebuild](https://github.com/welkincz/charliebuild) — Add the full DE study journey under /interview/. (#5) *(Oct 7)*  
-[ns-trip](https://github.com/welkincz/ns-trip) — 加天气板块：五天预报卡片 + 雨天/低温/飓风三个说明块 *(Sep 8)*  
-[Orbit](https://github.com/welkincz/Orbit) — Correct the deploy note in wrangler.jsonc *(Sep 8)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Commit the Worker config so PR preview builds can find the assets *(Oct 8)*  
 <!-- recent ends -->
