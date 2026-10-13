@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Merge pull request #2 from welkincz/cursor/mortgage-calculator-437e *(Oct 11)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Merge pull request #1 from welkincz/cursor/fun-little-things-home-437e *(Oct 11)*  
 [charliebuild](https://github.com/welkincz/charliebuild) — Commit the Worker config so PR preview builds can find the assets *(Oct 8)*  
 <!-- recent ends -->
