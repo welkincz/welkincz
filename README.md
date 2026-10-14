@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Merge pull request #1 from welkincz/cursor/fun-little-things-home-437e *(Oct 11)*  
-[charliebuild](https://github.com/welkincz/charliebuild) — Commit the Worker config so PR preview builds can find the assets *(Oct 8)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Fix the selected-option highlight in mortgage choice groups. *(Oct 12)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(infra): dependency bot flips blocked → ready (#6) (#65) *(Oct 13)*  
 <!-- recent ends -->
