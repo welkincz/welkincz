@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Fix the selected-option highlight in mortgage choice groups. *(Oct 12)*  
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(infra): dependency bot flips blocked → ready (#6) (#65) *(Oct 13)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(contracts): add data contracts as code with JSON Schema codegen (#66) *(Oct 13)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Raise helper-text and input-rule contrast in the mortgage sidebar. *(Oct 13)*  
 <!-- recent ends -->
