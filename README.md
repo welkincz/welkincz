@@ -21,6 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(contracts): add data contracts as code with JSON Schema codegen (#66) *(Oct 13)*  
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Raise helper-text and input-rule contrast in the mortgage sidebar. *(Oct 13)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(infra): retry transient deps bot API errors (#70) *(Oct 14)*  
 <!-- recent ends -->
