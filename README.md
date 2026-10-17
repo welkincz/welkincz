@@ -21,5 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(infra): retry transient deps bot API errors (#70) *(Oct 14)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(ingest): consume failed-file recovery after success *(Oct 16)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Merge pull request #4 from welkincz/cursor/mortgage-simple-layout-5417 *(Oct 15)*  
 <!-- recent ends -->
