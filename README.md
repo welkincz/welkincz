@@ -21,6 +21,7 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(ingest): consume failed-file recovery after success *(Oct 16)*  
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Merge pull request #4 from welkincz/cursor/mortgage-simple-layout-5417 *(Oct 15)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(map): align FSA controls, values, and failure state *(Oct 17)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Serve the mortgage calculator under /tools/mortgage (#6) *(Oct 17)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Lay out a single small tool as a full-width card (#9) *(Oct 17)*  
 <!-- recent ends -->
