@@ -21,7 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(map): align FSA controls, values, and failure state *(Oct 17)*  
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Serve the mortgage calculator under /tools/mortgage (#6) *(Oct 17)*  
-[charliebuild](https://github.com/welkincz/charliebuild) — Lay out a single small tool as a full-width card (#9) *(Oct 17)*  
+[fun-little-things](https://github.com/welkincz/fun-little-things) — Redirect fun-mortgage.pages.dev to charliebuild.com/tools/mortgage *(Oct 17)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — ci(frontend): measure the JS budget per route on initial load (#54) *(Oct 18)*  
 <!-- recent ends -->
