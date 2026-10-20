@@ -21,6 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[fun-little-things](https://github.com/welkincz/fun-little-things) — Redirect fun-mortgage.pages.dev to charliebuild.com/tools/mortgage *(Oct 17)*  
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — ci(frontend): measure the JS budget per route on initial load (#54) *(Oct 18)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(web): add a Content-Security-Policy, tested against DuckDB-WASM in CI (#187) (#188) *(Oct 20)*  
 <!-- recent ends -->
