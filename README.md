@@ -21,5 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(web): add a Content-Security-Policy, tested against DuckDB-WASM in CI (#187) (#188) *(Oct 20)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(overview): let only weekly runs drive the failed-run banner *(Oct 19)*  
 <!-- recent ends -->
