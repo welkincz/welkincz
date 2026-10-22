@@ -21,5 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(overview): let only weekly runs drive the failed-run banner *(Oct 19)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(dbt): portfolio marts, geo and quarterly lead KPI, and DQ025 (#223) *(Oct 22)*  
 <!-- recent ends -->
