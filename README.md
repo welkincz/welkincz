@@ -21,5 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — feat(generate): a warm-up year so the lead KPI covers all of FY25 (#273) (#274) *(Oct 23)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — chore(quality): incorporate scoring and truth fixes (#316) *(Oct 23)*  
 <!-- recent ends -->
