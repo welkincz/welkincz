@@ -21,5 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — chore(quality): incorporate scoring and truth fixes (#316) *(Oct 23)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — test(ci): cover isolated backfill benchmark guards (#275) *(Oct 24)*  
 <!-- recent ends -->
