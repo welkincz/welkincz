@@ -21,5 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — test(ci): cover isolated backfill benchmark guards (#275) *(Oct 24)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — docs(generate): record matched generation and rebuild benchmarks (#349) *(Oct 26)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Move the interview app to its own site and stop publishing repo internals (#7) *(Oct 25)*  
 <!-- recent ends -->
