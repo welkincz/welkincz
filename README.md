@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — docs(generate): record matched generation and rebuild benchmarks (#349) *(Oct 26)*  
-[charliebuild](https://github.com/welkincz/charliebuild) — Move the interview app to its own site and stop publishing repo internals (#7) *(Oct 25)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(narrative): preserve timestamps and retry current fallbacks (#309) *(Oct 26)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Lead selected work with Advisor Pulse and clarify project roles *(Oct 26)*  
 <!-- recent ends -->
