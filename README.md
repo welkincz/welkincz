@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(narrative): preserve timestamps and retry current fallbacks (#309) *(Oct 26)*  
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — perf(state): parallelize full state restore (#354) (#355) *(Oct 27)*  
 [charliebuild](https://github.com/welkincz/charliebuild) — Lead selected work with Advisor Pulse and clarify project roles *(Oct 26)*  
 <!-- recent ends -->
