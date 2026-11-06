@@ -21,5 +21,5 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-*Nothing public lately.*
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — chore: leave the tracked pnpm log as it is on main (#306) *(Nov 5)*  
 <!-- recent ends -->
