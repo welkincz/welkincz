@@ -21,5 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
-*Nothing public lately.*
+[advisor-pulse](https://github.com/welkincz/advisor-pulse) — fix(runner): rebuild incremental models whose definition changed (#304) *(Nov 11)*  
+[charliebuild](https://github.com/welkincz/charliebuild) — Polish the Small tools heading and thumbnail seam (#13) *(Nov 11)*  
 <!-- recent ends -->
