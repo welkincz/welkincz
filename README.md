@@ -21,6 +21,6 @@ edge on every push. The live readout on the page is measured, not decorative.
 
 ### Recently
 <!-- recent starts -->
+[charliebuild](https://github.com/welkincz/charliebuild) — Add a one-page ATS-friendly résumé at /resume/ with a PDF *(Nov 16)*  
 [advisor-pulse](https://github.com/welkincz/advisor-pulse) — ci(orchestration): diagnose a failed weekly run and draft the fix in an isolated agent (#307) (#360) *(Nov 11)*  
-[charliebuild](https://github.com/welkincz/charliebuild) — Polish the Small tools heading and thumbnail seam (#13) *(Nov 11)*  
 <!-- recent ends -->
